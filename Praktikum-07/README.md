@@ -1,1 +1,1 @@
-7.0 Function Concept on C
+7. Function Concept on C
